@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Kotlin_Kinopoisk"
+rootProject.name = "Kotlin_kinopoisk"
 include ':app'
