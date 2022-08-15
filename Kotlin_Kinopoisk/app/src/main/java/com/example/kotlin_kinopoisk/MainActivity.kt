@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val text = findViewById<TextView>(R.id.textview)
         text.setText("layout")
-
+        //efeefe
     }
 }
