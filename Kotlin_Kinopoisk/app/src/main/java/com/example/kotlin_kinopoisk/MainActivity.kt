@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         val text = findViewById<TextView>(R.id.textview)
         text.setText("layout")
         //efeefe
+        // flfllf
     }
 }
